@@ -1,0 +1,13 @@
+*.suo
+*.cache
+*.user
+*.ncrunchsolution
+*.ncrunchproject
+
+_ReSharper.ManchesterCoding/
+
+ManchesterCoding.Test/bin
+ManchesterCoding.Test/obj
+
+ManchesterCoding/bin
+ManchesterCoding/obj
